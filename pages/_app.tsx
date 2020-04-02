@@ -1,5 +1,3 @@
-
-import "intersection-observer";
 import React from "react";
 import App from "next/app";
 class CoreApp extends App {
@@ -15,3 +13,5 @@ class CoreApp extends App {
         );
     }
 }
+
+export default CoreApp;
